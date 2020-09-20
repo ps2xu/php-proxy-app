@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>PHP-Proxy</title>
+<title>PHPoxy</title>
 
-<meta name="generator" content="php-proxy.com">
+<meta name="generator" content="php.com">
 <meta name="version" content="<?=$version;?>">
 
 <style type="text/css">
