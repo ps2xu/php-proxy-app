@@ -4,7 +4,7 @@
 $config = array();
 
 // a unique key that identifies this application - DO NOT LEAVE THIS EMPTY!
-$config['app_key'] = '';
+$config['app_key'] = '02531243-9e08-40d0-aef6-8ecaa3f13dbe';
 
 // a secret key to be used during encryption
 $config['encryption_key'] = '';
