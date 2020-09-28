@@ -1,5 +1,5 @@
 ---
 applications:
- - name: testphproxy
+ - name: ps2ub
    random-route: true
-   memory: 256M
+   memory: 128M
